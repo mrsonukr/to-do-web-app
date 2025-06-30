@@ -8,7 +8,7 @@ This repository contains solutions to the web development tasks provided by **Sk
 
 | Task | Project | Live Demo |
 |------|---------|-----------|
-| Task 01 | Responsive Landing Page | [View Demo](https://landing.mrsonu.in) |
+| Task 01 | Responsive Landing Page | [View Demo](https://landingpage.mrsonu.in/) |
 | Task 02 | Stopwatch Web Application | [View Demo](https://stopwatch.mrsonu.in) |
 | Task 03 | Tic-Tac-Toe Web Application | [View Demo](https://tic.mrsonu.in) |
 | Task 04 | To-Do Web Application | [View Demo](https://todo.mrsonu.in) |
